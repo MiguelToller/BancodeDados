@@ -1,0 +1,6 @@
+1) O papel do SQL no SGBD tem como finalidade realizar manipulação do banco como criação de tabelas, inserção, 
+deleção de dados e consultas.
+
+2) As restrições servem para estabelecer regras ao sistema, são referenciadas como constraints na linguagem MySQL
+e estabelecem o tipo de dado, sendo eles: NOT NULL, UNIQUE, PRIMARY KEY, FOREIGN KEY, CHECK, DEFALT, CREATE INDEX.
+
